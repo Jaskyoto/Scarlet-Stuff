@@ -291,6 +291,8 @@
 		/datum/sprite_accessory/tail/raptor,
 		/datum/sprite_accessory/tail/spade,
 		/datum/sprite_accessory/tail/spademaw,
+		/datum/sprite_accessory/tail/tiefling/heart,
+		/datum/sprite_accessory/tail/tiefling/heartmaw,
 		/datum/sprite_accessory/tail/leopard,
 		/datum/sprite_accessory/tail/deer,
 		/datum/sprite_accessory/tail/raccoon,
